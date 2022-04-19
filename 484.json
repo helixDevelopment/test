@@ -2,7 +2,7 @@
     "name": "#484",
     "description": "",
     "symbol": "CTZN",
-    "external_url": "",
+    "external_url": "https://raw.githubusercontent.com/helixDevelopment/test/master/484.png",
     "seller_fee_basis_points": 1000,
     "image": "484.png",
     "attributes": [
@@ -36,5 +36,6 @@
                 "share": 100
             }
         ]
-    }
+    },
+    "mint_account": "EGs3NbQSDqxnhRW1quAKofx5BTCVhxdXpFhjTz8bHxV5"
 }
