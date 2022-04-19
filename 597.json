@@ -1,0 +1,44 @@
+{
+    "name": "#597",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "597.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SPIDERZ"
+        },
+        {
+            "trait_type": "BETA ALIEN",
+            "value": "PRPL BETA"
+        },
+        {
+            "trait_type": "GEAR",
+            "value": "CORP"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "NONE"
+        },
+        {
+            "trait_type": "JAWZ",
+            "value": "SURGEON"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "597.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

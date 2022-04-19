@@ -1,0 +1,48 @@
+{
+    "name": "#711",
+    "description": "",
+    "symbol": "BETA CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "711.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SLIME"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "BLK TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "FLWR HEAD"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BASE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PIPE"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "711.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "#166",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "166.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "PURPLE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "RED TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "PONYTAIL BRWN"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BASE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PLAIN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "166.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

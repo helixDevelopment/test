@@ -1,0 +1,40 @@
+{
+    "name": "#623",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "623.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SLIME"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "CLOAK"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "ONI"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "623.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

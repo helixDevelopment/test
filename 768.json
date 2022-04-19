@@ -1,0 +1,28 @@
+{
+    "name": "#768",
+    "description": "",
+    "symbol": "ALPHA CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "768.gif",
+    "attributes": [
+        {
+            "trait_type": "ALPHAALIEN",
+            "value": "#2"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "768.gif",
+                "type": "image/gif"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "#256",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "256.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SLIME"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "RED TEE"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "KITSUNE"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "256.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

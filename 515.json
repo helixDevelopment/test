@@ -1,0 +1,44 @@
+{
+    "name": "#515",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "515.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SLIME"
+        },
+        {
+            "trait_type": "BETA ALIEN",
+            "value": "GRN BETA"
+        },
+        {
+            "trait_type": "GEAR",
+            "value": "NONE"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "TRIAD"
+        },
+        {
+            "trait_type": "JAWZ",
+            "value": "SLIME"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "515.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

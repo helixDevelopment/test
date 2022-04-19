@@ -1,0 +1,48 @@
+{
+    "name": "#31",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "31.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BEIGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "CLOAK"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "SAMURAI BLK"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "ALIEN DRIP"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PLAIN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "31.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "#508",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "508.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SHAMAN"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "VARSITY RED"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "TV HEAD"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "508.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

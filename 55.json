@@ -1,0 +1,48 @@
+{
+    "name": "#55",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "55.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "TURQUOISE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "BLK TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "MESSY BRWN"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "SPCE VZN"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "CIGAR"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "55.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "#144",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "144.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "PURPLE"
+        },
+        {
+            "trait_type": "BETA ALIEN",
+            "value": "GRN BETA"
+        },
+        {
+            "trait_type": "GEAR",
+            "value": "CLOAK BLU"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "NONE"
+        },
+        {
+            "trait_type": "JAWZ",
+            "value": "BLOOD"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "144.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

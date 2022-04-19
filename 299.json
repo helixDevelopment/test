@@ -1,0 +1,48 @@
+{
+    "name": "#299",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "299.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "LAVENDER"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "YLW TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "PONYTAIL BLK"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "THIRD EYE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PIZZA"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "299.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

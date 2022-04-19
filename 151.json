@@ -1,0 +1,48 @@
+{
+    "name": "#151",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "151.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "777"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "KIMONO GREY"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "FLWR HEAD"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BLOOD DRIP"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "SEMI-ALIEN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "151.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

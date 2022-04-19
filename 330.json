@@ -1,0 +1,48 @@
+{
+    "name": "#330",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "330.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "ORANGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "COMBAT VEST"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "FLWR HEAD"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BASE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PLAIN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "330.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

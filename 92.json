@@ -1,0 +1,48 @@
+{
+    "name": "#92",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "92.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "GALAXY"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "RED TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "MESSY BLK"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BASE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "KNIFE"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "92.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

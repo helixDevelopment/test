@@ -1,0 +1,48 @@
+{
+    "name": "#302",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "302.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BEIGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "VARSITY RED"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "DEVIL HORNS GREY"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "BLOOD DRIP"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "CIGAR"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "302.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

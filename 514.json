@@ -1,0 +1,48 @@
+{
+    "name": "#514",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "514.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BEIGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "BANDANA"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "PONYTAIL PNK"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "ALIEN DRIP"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "PLAIN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "514.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

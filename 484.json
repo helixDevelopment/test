@@ -1,0 +1,40 @@
+{
+    "name": "#484",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "484.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "ORANGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "KIMONO BLUE"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "TV HEAD"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "484.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

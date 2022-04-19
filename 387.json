@@ -1,0 +1,44 @@
+{
+    "name": "#387",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "387.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "SHAMAN"
+        },
+        {
+            "trait_type": "BETA ALIEN",
+            "value": "BLK BETA"
+        },
+        {
+            "trait_type": "GEAR",
+            "value": "ENGNR"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "TRIPLE EYEZ"
+        },
+        {
+            "trait_type": "JAWZ",
+            "value": "BLOOD"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "387.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

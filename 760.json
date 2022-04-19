@@ -1,0 +1,40 @@
+{
+    "name": "#760",
+    "description": "",
+    "symbol": "BETA CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "760.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "END OF WORLD"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "RED TEE"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "ONI RED"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "760.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

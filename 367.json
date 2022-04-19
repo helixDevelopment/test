@@ -1,0 +1,48 @@
+{
+    "name": "#367",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "367.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BEIGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "BLK TEE"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "MESSY BLND"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "THIRD EYE"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "KNIFE"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "367.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

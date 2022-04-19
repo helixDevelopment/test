@@ -1,0 +1,44 @@
+{
+    "name": "#204",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "204.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "LAB"
+        },
+        {
+            "trait_type": "BETA ALIEN",
+            "value": "PRPL BETA"
+        },
+        {
+            "trait_type": "GEAR",
+            "value": "HOODIE"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "BUBBLE"
+        },
+        {
+            "trait_type": "JAWZ",
+            "value": "NONE"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "204.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

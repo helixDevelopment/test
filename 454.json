@@ -1,0 +1,40 @@
+{
+    "name": "#454",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "454.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BEIGE"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "FUR COAT"
+        },
+        {
+            "trait_type": "MASK",
+            "value": "ONI"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "454.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}

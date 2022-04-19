@@ -1,0 +1,48 @@
+{
+    "name": "#546",
+    "description": "",
+    "symbol": "CTZN",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "image": "546.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "GEMZ"
+        },
+        {
+            "trait_type": "CTZN",
+            "value": "CTZN"
+        },
+        {
+            "trait_type": "OUTFIT",
+            "value": "BANDANA"
+        },
+        {
+            "trait_type": "HAIR",
+            "value": "SAMURAI BLK"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "RAINBOW DRIP"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "SEMI-ALIEN"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "546.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "CUDGnANU3DEFcGEsppXwqjTD9nUFCFbBmrBUVjPfwPHb",
+                "share": 100
+            }
+        ]
+    }
+}
