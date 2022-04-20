@@ -4,7 +4,7 @@
     "symbol": "ALPHA CTZN",
     "external_url": "https://raw.githubusercontent.com/helixDevelopment/test/master/770.gif",
     "seller_fee_basis_points": 1000,
-    "image": "770.gif",
+    "image": "https://raw.githubusercontent.com/helixDevelopment/test/master/770.gif",
     "attributes": [
         {
             "trait_type": "ALPHAALIEN",

@@ -4,7 +4,7 @@
     "symbol": "CTZN",
     "external_url": "https://raw.githubusercontent.com/helixDevelopment/test/master/356.png",
     "seller_fee_basis_points": 1000,
-    "image": "356.png",
+    "image": "https://raw.githubusercontent.com/helixDevelopment/test/master/356.png",
     "attributes": [
         {
             "trait_type": "BACKGROUND",
